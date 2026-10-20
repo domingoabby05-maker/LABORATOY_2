@@ -1,0 +1,11 @@
+
+{
+  "name": "it313-javascript-es6-essentials",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "IT313 Enrollment Eligibility Checker",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
